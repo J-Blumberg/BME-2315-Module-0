@@ -160,6 +160,6 @@ for limit, expected in test_cases:
     assert actual == expected  # Raises an AssertionError if a test fails
 
 '''
-Used ChatGPT to help me brainstorm tests and how to inlcude sytaxt at the end to display the tests
+Used ChatGPT to help me brainstorm tests and how to inlcude sytaxt at the end to display the tests.
 '''
 # %%
